@@ -1,0 +1,51 @@
+Column,What is it?
+Timestamp,when entered
+date,converted from column A
+unique_id,Unique Identifier
+Rise Partners,coalition
+Rise Affiliate,organization with a coalition
+zip,where activities are occurring
+gender,gender
+sexuality,sexuality
+race,race
+latino,latino status
+other_languages,what other languages they speak
+marital,marital status
+age,age
+current_wellbeing,How well they feel currently
+wellbeing_five,How well they believe they will feel in 5 years
+wellbeing_two,How well they believe they will feel in 2 years
+overall_wellbeing,categorical classification based on previous three datapoints
+financial,How well they feel they are financially
+direction_and_purpose,Whether they feel they have direction and purpose in life
+positive_emotions,How much the feel they have experienced positive emotions recently
+negative_emotions,How much the feel they have experienced negative emotions recently
+unfairly_treated,how they been unfairly treated in the last two weeks
+covid_vaccine,Do they report needed this?
+primary_care_or_other_health_care,Do they report needed this?
+there_is_nothing_i_need_help_with,Do they report needed this?
+flu_vaccine,Do they report needed this?
+food,Do they report needed this?
+other_vaccines,Do they report needed this?
+housing,Do they report needed this?
+rent,Do they report needed this?
+utilities,Do they report needed this?
+finances,Do they report needed this?
+transportation,Do they report needed this?
+loneliness,Do they report needed this?
+personal_safety,Do they report needed this?
+employment,Do they report needed this?
+childcare,Do they report needed this?
+alcohol_or_drug_use,Do they report needed this?
+first_time,first time for outreach
+hesitancy_reasons,reason they were hesitant
+vaccine_commitment,will they commit to getting a vaccine
+vaccine_status,what is current vaccine status
+difference_makers,what made a difference in getting a vaccine
+previous_experience,any previous health work experience
+hours,how many hours do they work
+regular_activities,how did they help people getting vaccinated
+transportation_help_activities,how did they help people getting transportation to vaccine sites
+follow_up_activities,how did they follow up with people
+form,form name
+vaccine_type,what vaccine did they get
